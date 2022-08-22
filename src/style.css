@@ -1,0 +1,29 @@
+.btn-primary{
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-primary:hover {
+  background-color: #3a3e45;
+  border-color: #474e5c;
+}
+
+.drop-shadow {
+  filter: drop-shadow(0px 0px 0px #586680);
+}
+
+.no-select {
+  user-select: none;
+}
+
+.bg-primary {
+  background-color: #3CA6A6 !important;
+}
+
+.dropdown-item:active, .dropdown-item:hover {
+  background-color: #3CA6A6 !important;
+}
+
+/* tbody > tr:hover > * {
+  background-color: #ffff !important;
+  color: black !important;
+} */
